@@ -51,4 +51,12 @@ document.addEventListener('DOMContentLoaded', () => {
             });
         });
     });
+    document.addEventListener('DOMContentLoaded', () => {
+        const footer = document.querySelector('footer');
+        footer.style.opacity = 0;
+        footer.style.transition = 'opacity 1s ease-in-out';
+        setTimeout(() => {
+            footer.style.opacity = 1;
+        }, 500);
+    });
 });
