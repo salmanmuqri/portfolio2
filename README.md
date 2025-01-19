@@ -51,3 +51,4 @@ The project section showcases various projects I've worked on, each with a brief
 - **Interactive Button Hover Effects**: Buttons on the page have a hover effect where the cursor size changes when hovering over interactive elements, adding an extra layer of engagement.
 
 
+**ai help has been taken in this project file**
